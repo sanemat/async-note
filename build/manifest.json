@@ -1,0 +1,19 @@
+{
+  "name": "Async Note",
+  "description": "Save async to evernote.",
+  "version": "0.0.1",
+  "app": {
+    "launch": {
+      "local_path": "index.html"
+    }
+  },
+  "icons": {
+    "16": "icon_16.png",
+    "128": "icon_128.png"
+  },
+  "permissions": [
+    "notifications",
+    "background",
+    "unlimitedStorage"
+  ]
+}
