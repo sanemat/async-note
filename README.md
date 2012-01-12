@@ -1,2 +1,2 @@
-* Site
-- http://async-note.herokuapp.com/
+# Site
+- http://asyncnote.com/
